@@ -1,6 +1,6 @@
-Line 1
+Updated content for Line 1 in git_1
 Line 2
-Line 3
+Updated content for Line 3 in git_1
 Line 4
 Line 5
 Line 6
