@@ -1,7 +1,7 @@
 Updated content for Line 1 in git_1
-Line 2
+Updated content for Line 2 in git_1
 Updated content for Line 3 in git_1
-Line 4
+Updated content for Line 4 in git_1
 Line 5
 Line 6
 Line 7
